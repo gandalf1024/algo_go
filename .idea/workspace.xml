@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b86c448d-fdd1-43f0-a96d-9984584651d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1g4TPUNkfT9v14z6G4CWJdxtqR0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\dev\code\golang\src\algo_go\line" />
+      <recent name="D:\dev\code\golang\src\algo_go\line\queue\linked\singly_linked" />
+      <recent name="D:\dev\code\golang\src\algo_go\line\queue\simple" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.Test_ReversePrint in algo_go/line/queue/linked/singly_linked">
+    <configuration name="go build algo_go/temp/d_01" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algo_go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/temp/d_01/main.go" />
+      <package value="algo_go/temp/d_01" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_Linked in algo_go/line/queue/linked/singly_linked" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algo_go" />
+      <working_directory value="$PROJECT_DIR$/line/queue/linked/singly_linked" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="algo_go/line/queue/linked/singly_linked" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^Test_Linked$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_Reverse in algo_go/line/queue/linked/singly_linked" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algo_go" />
+      <working_directory value="$PROJECT_DIR$/line/queue/linked/singly_linked" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="algo_go/line/queue/linked/singly_linked" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^Test_Reverse$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_ReversePrint in algo_go/line/queue/linked/singly_linked" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algo_go" />
+      <working_directory value="$PROJECT_DIR$/line/queue/linked/singly_linked" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="algo_go/line/queue/linked/singly_linked" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^Test_ReversePrint$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_circle in algo_go/line/queue/circle (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algo_go" />
+      <working_directory value="$PROJECT_DIR$/line/queue/circle" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="algo_go/line/queue/circle" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^Test_circle$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.Test_ReversePrint in algo_go/line/queue/linked/singly_linked" />
+        <item itemvalue="Go Test.Test_Reverse in algo_go/line/queue/linked/singly_linked" />
+        <item itemvalue="Go Test.Test_Linked in algo_go/line/queue/linked/singly_linked" />
+        <item itemvalue="Go Test.Test_circle in algo_go/line/queue/circle (1)" />
+        <item itemvalue="Go Build.go build algo_go/temp/d_01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1035" y="402" key="#xdebugger.evaluate" timestamp="1597656189535">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1035" y="402" key="#xdebugger.evaluate/0.0.2560.1400@0.0.2560.1400" timestamp="1597656189535" />
+    <state width="771" height="784" key="DebuggerActiveHint" timestamp="1599725539711">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="771" height="784" key="DebuggerActiveHint/0.0.2560.1400@0.0.2560.1400" timestamp="1599725539711" />
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1599806411189">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1599806411189" />
+    <state width="2517" height="240" key="GridCell.Tab.0.bottom" timestamp="1599805474595">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="240" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1599805474595" />
+    <state width="2517" height="240" key="GridCell.Tab.0.center" timestamp="1599805474595">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="240" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1599805474595" />
+    <state width="2517" height="240" key="GridCell.Tab.0.left" timestamp="1599805474595">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="240" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1599805474595" />
+    <state width="2517" height="240" key="GridCell.Tab.0.right" timestamp="1599805474595">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="240" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1599805474595" />
+    <state width="2517" height="525" key="GridCell.Tab.1.bottom" timestamp="1599796191425">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="525" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1599796191425" />
+    <state width="2517" height="525" key="GridCell.Tab.1.center" timestamp="1599796191425">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="525" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1599796191425" />
+    <state width="2517" height="525" key="GridCell.Tab.1.left" timestamp="1599796191425">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="525" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1599796191425" />
+    <state width="2517" height="525" key="GridCell.Tab.1.right" timestamp="1599796191425">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="525" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1599796191425" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/temp/d_01/main.go</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
