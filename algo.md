@@ -11,13 +11,18 @@
 | 单向链表 |line/linked/singly_linked      |
 | 双向链表 |line/linked/doubly_linked      |
 | 环形链表 |line/linked/doubly_linked/cycle      |
+| 栈 |      |
 
 # 2:非线性
 
+
+
+
+
+# 3:其他
 | 名称     | 路径 |
 | -------- | ---- |
 | 约瑟夫问题 |      |
-| 栈 |      |
 | 前缀、中缀、后缀表达式 |      |
 | 中缀表达式转换为后缀表达式 |      |
 | 递归与回溯 |      |
