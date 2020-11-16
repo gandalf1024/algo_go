@@ -11,7 +11,8 @@
 | 单向链表 |line/linked/singly_linked      |
 | 双向链表 |line/linked/doubly_linked      |
 | 环形链表 |line/linked/doubly_linked/cycle      |
-| 栈 |      |
+| 栈      |line/stack|
+| 递归     |line/recursion|
 
 # 2:非线性
 
