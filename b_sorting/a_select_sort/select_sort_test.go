@@ -1,12 +1,12 @@
-package one_select_sort
+package a_select_sort
 
 import (
-	"algo_go/two_sort/test_data"
+	"algo_go/b_sorting/z_data"
 	"testing"
 )
 
 func TestSelectSort(t *testing.T) {
-	for _, arr := range test_data.ArrDataList {
+	for _, arr := range z_data.ArrDataList {
 		sortedArr := SelectSort(arr)
 		t.Log(sortedArr)
 	}

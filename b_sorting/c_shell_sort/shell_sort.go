@@ -1,6 +1,6 @@
-package three_hill_sort
+package c_shell_sort
 
-func HillSort(arr []int) []int {
+func ShellSort(arr []int) []int {
 	N := len(arr)
 	h := 1
 	for h < N/3 {

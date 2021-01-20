@@ -1,12 +1,12 @@
-package two_insertion_sort
+package b_insertion_sort
 
 import (
-	"algo_go/two_sort/test_data"
+	"algo_go/b_sorting/z_data"
 	"testing"
 )
 
 func TestInsertionSort(t *testing.T) {
-	for _, arr := range test_data.ArrDataList {
+	for _, arr := range z_data.ArrDataList {
 		sortedArr := InsertionSort(arr)
 		t.Log(sortedArr)
 	}

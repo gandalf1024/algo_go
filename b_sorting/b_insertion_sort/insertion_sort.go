@@ -1,4 +1,4 @@
-package two_insertion_sort
+package b_insertion_sort
 
 func InsertionSort(arr []int) []int {
 	for i := 1; i < len(arr); i++ {

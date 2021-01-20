@@ -1,4 +1,4 @@
-package one_select_sort
+package a_select_sort
 
 func SelectSort(arr []int) []int {
 	for i := 0; i < len(arr); i++ {
