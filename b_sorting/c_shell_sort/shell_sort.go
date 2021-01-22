@@ -1,6 +1,18 @@
 package c_shell_sort
 
 func ShellSort(arr []int) []int {
+	for d := len(arr) / 2; d > 0; d /= 2 {
+		for i := d; i < len(arr); i++ {
+			for j := i; j >= d && arr[j-d] > arr[j]; j -= d {
+				arr[j], arr[j-d] = arr[j-d], arr[j]
+			}
+		}
+	}
+	return arr
+}
+
+/*
+func ShellSort(arr []int) []int {
 	N := len(arr)
 	h := 1
 	for h < N/3 {
@@ -18,3 +30,4 @@ func ShellSort(arr []int) []int {
 
 	return arr
 }
+**/

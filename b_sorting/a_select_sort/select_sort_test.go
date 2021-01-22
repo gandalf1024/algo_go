@@ -6,8 +6,6 @@ import (
 )
 
 func TestSelectSort(t *testing.T) {
-	for _, arr := range z_data.ArrDataList {
-		sortedArr := SelectSort(arr)
-		t.Log(sortedArr)
-	}
+	sortedArr := SelectSort(z_data.ArrDataList)
+	t.Log(sortedArr)
 }

@@ -6,8 +6,6 @@ import (
 )
 
 func TestInsertionSort(t *testing.T) {
-	for _, arr := range z_data.ArrDataList {
-		sortedArr := InsertionSort(arr)
-		t.Log(sortedArr)
-	}
+	sortedArr := InsertionSort(z_data.ArrDataList)
+	t.Log(sortedArr)
 }
